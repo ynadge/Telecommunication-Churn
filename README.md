@@ -16,4 +16,15 @@ This project aims to develop a robust machine learning model that can effectivel
 * Model Evaluation: Shap
 * Model Deployment: Streamlit, FastAPI, Docker
 
+### Installation
+
+Cloning the repo:
+```
+git clone https://github.com/ynadge/Telecommunication-Churn.git
+```
+Running application:
+```
+streamlit run streamlit-app.py
+```
+
 
